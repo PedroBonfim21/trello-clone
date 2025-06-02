@@ -18,30 +18,28 @@ Taskify is a modern task management web app inspired by Trello, built with cutti
 
 ## 🧩 Features
 
-| Feature                         | Status |
-|--------------------------------|--------|-----------------|
-| Marketing landing page         | ✅ Done  |
-| Authentication with Clerk      | 🔜 Pending |
-| Organization system            | 🔜 Pending |
-| Sidebar layout & navigation    | 🔜 Pending |
-| Workspace settings             | 🔜 Pending |
-| Server actions (mutation logic)| 🔜 Pending |
-| useAction abstraction          | 🔜 Pending |
-| Reusable form components       | 🔜 Pending |
-| Board popover form             | 🔜 Pending |
-| Board server action            | 🔜 Pending |
-| Board list UI                  | 🔜 Pending |
-| Board page                     | 🔜 Pending |
-| List component & layout        | 🔜 Pending |
-| List header & options          | 🔜 Pending |
-| Card form & creation           | 🔜 Pending |
-| Drag and drop support          | 🔜 Pending |
-| Card modal + edit              | 🔜 Pending |
-| Card actions (archive/delete)  | 🔜 Pending |
-| Activity & audit logs          | 🔜 Pending |
-| Stripe integration + limits    | 🔜 Pending |
-| Responsive UI                  | 🔜 Pending |
-| Deployment                     | 🔜 Pending |
+- [x] Marketing landing page
+- [ ] Authentication with Clerk
+- [ ] Organization system
+- [ ] Sidebar layout & navigation
+- [ ] Workspace settings
+- [ ] Server actions (mutation logic)
+- [ ] useAction abstraction
+- [ ] Reusable form components
+- [ ] Board popover form
+- [ ] Board server action
+- [ ] Board list UI
+- [ ] Board page
+- [ ] List component & layout
+- [ ] List header & options
+- [ ] Card form & creation
+- [ ] Drag and drop support
+- [ ] Card modal + edit
+- [ ] Card actions (archive/delete)
+- [ ] Activity & audit logs
+- [ ] Stripe integration + limits
+- [ ] Responsive UI
+- [ ] Deployment
 
 
 ## 🪪 License
