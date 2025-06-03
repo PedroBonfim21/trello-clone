@@ -19,7 +19,7 @@ Taskify is a modern task management web app inspired by Trello, built with cutti
 ## 🧩 Features
 
 - [x] Marketing landing page
-- [ ] Authentication with Clerk
+- [x] Authentication with Clerk
 - [ ] Organization system
 - [ ] Sidebar layout & navigation
 - [ ] Workspace settings
